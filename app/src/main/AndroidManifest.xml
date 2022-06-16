@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinEx">
         <activity
+            android:name=".ConstructingElements"
+            android:exported="false" />
+        <activity
             android:name=".OperatorFunctions"
             android:exported="false" />
         <activity
